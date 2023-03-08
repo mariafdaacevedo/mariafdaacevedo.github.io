@@ -106,7 +106,7 @@ addEventListener("DOMContentLoaded", (event) => {
     h3_contacto.innerHTML = "¿Te gustaría trabajar conmigo?"
 
     let contacto_intro = document.querySelector("#contacto_intro")
-    contacto_intro.innerHTML = "Puedes enviarme un mensaje o contactarme a cualquiera de mis redes sociales. En mi CV encuentras tambien mi información personal. Click <a href='https://drive.google.com/file/d/1_VEb9h7tUlxmmiaot2upzO3JCRDArV1x/view?usp=sharing' target='_blank'>Descargar CV</a>."
+    contacto_intro.innerHTML = "Puedes enviarme un mensaje o contactarme a cualquiera de mis redes sociales. En mi CV encuentras tambien mi información personal. Click <a href='https://drive.google.com/file/d/12Q4X24-ODvn21Ptll2SLDcWpFhEX-7q-/view?usp=share_link' target='_blank'>Descargar CV</a>."
 
 
 
