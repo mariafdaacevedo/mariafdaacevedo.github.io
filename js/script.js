@@ -95,11 +95,11 @@ addEventListener("DOMContentLoaded", (event) => {
             /* project 2*/  
 
     let project3_t1 = document.querySelector("#project3_t1")
-    project3_t1.innerHTML = "Muy pronto."
+    project3_t1.innerHTML = "API SpringBoot"
                 
     let project3_description= document.querySelector("#project3_description")
-    project3_description.innerHTML = "Actualmente me encuentro terminando algunos proyectos que estarán disponibles aquí en breve."
-
+    project3_description.innerHTML = "API para registrar datos personales de usuarios. <br> Este proyecto fue creado SpringBoot, JAVA y MongoDB."
+        //"Actualmente me encuentro terminando algunos proyectos que estarán disponibles aquí en breve."
         //Contacto
 
     let h3_contacto = document.querySelector("#h3_contacto")
