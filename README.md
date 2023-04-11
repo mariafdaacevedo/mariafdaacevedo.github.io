@@ -5,7 +5,7 @@ https://mariafdaacevedo.github.io/
 Mi Portafolio!
 
 El proposito principal de este proyecto es el mostrar mi conocimientos front-end en diseños responsivo y adaptable. 
-Adicionalmente, considero mi portadfolio un recurso util para plasmar los proyectos en los que estoy trabajando actualmente para una mejor visbilidad.
+Adicionalmente, considero mi portafolio un recurso util para plasmar los proyectos en los que estoy trabajando actualmente para una mejor visbilidad.
 
 Estado del proyecto: En continua mejoría de acuerdo a nuevos aprendizajes en CSS y JavaScript.
 
