@@ -70,7 +70,7 @@ addEventListener("DOMContentLoaded", (event) => {
     h3_presentation.innerHTML = "Sobre mí!"
 
     let description_presentation = document.querySelector("#description_presentation")
-    description_presentation.innerHTML = "Soy desarrolladora de paginas y apliaciones Web. Mis conocimientos front-end me permiten desarrollar proyectos con tiempos de respuesta rapidos, estéticos, dinámicos y responsivos en cualquier dispositivo.<br><br>He trabajado en proyectos de aplicacion Web usando APIs disponibles en la web, asi como creando APIs atraves de SpringBoot & JAVA. Me gusta trabajar con bases de datos relaciones como MYSQL pero tambien con bases de datos no relacionales como MongoDB."
+    description_presentation.innerHTML = "Soy desarrolladora web y actualmente trabajo con Angular y Laravel en desarrollo de software a la medida. Mis conocimientos me permiten desarrollar proyectos con tiempos de respuesta rápidos, estéticos, dinámicos y responsivos en cualquier dispositivo.<br><br>He trabajado en proyectos de aplicacion Web usando APIs disponibles en la web, asi como creando APIs atraves de SpringBoot & JAVA. Me gusta trabajar con bases de datos relaciones como MYSQL pero tambien con bases de datos no relacionales como MongoDB."
         //Proyectos
     let h3_proyectos = document.querySelector("#h3_proyectos")
     h3_proyectos.innerHTML = "Mi trabajo"
