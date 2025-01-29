@@ -61,7 +61,7 @@ addEventListener("DOMContentLoaded", (event) => {
     /*Textos ocultos en el html con DOM */
         /*Portada */
     let h2_portada = document.querySelector("#h2_portada")
-    h2_portada.innerHTML = "Desarrolladora WEB."
+    h2_portada.innerHTML = "Desarrolladora de Software."
 
     let h3_portada = document.querySelector("#h3_portada")
     h3_portada.innerHTML = "Conóceme <span>>></span>"
@@ -70,13 +70,13 @@ addEventListener("DOMContentLoaded", (event) => {
     h3_presentation.innerHTML = "Sobre mí!"
 
     let description_presentation = document.querySelector("#description_presentation")
-    description_presentation.innerHTML = "Soy desarrolladora web y actualmente trabajo con Angular y Laravel en desarrollo de software a la medida. Mis conocimientos me permiten desarrollar proyectos con tiempos de respuesta rápidos, estéticos, dinámicos y responsivos en cualquier dispositivo.<br><br>He trabajado en proyectos de aplicacion Web usando APIs disponibles en la web, asi como creando APIs atraves de SpringBoot & JAVA. Me gusta trabajar con bases de datos relaciones como MYSQL pero tambien con bases de datos no relacionales como MongoDB."
+    description_presentation.innerHTML = "Soy desarrolladora full stack con 2 años de experiencia en el diseño e implementación de aplicaciones web. Aprendo rápido, me adapto fácilmente a cualquier proyecto y soy una persona que trabaja de forma autónoma y en equipo, siempre comprometida con la mejora continua. <br><br>He trabajado en proyectos de aplicaciones web utilizando APIs públicas, así como en la creación de APIs con Java Spring Boot. En el frontend, actualmente trabajo con Angular y manejo bases de datos relacionales como Oracle y MySQL."
         //Proyectos
     let h3_proyectos = document.querySelector("#h3_proyectos")
-    h3_proyectos.innerHTML = "Mi trabajo"
+    h3_proyectos.innerHTML = "Mis proyectos"
 
     let intro_proyectos = document.querySelector("#intro_proyectos")
-    intro_proyectos.innerHTML = "Estos son algunos de mis trabajos favoritos y mas recientes"
+    intro_proyectos.innerHTML = "Estos son algunos de mis proyectos favoritos y mas recientes"
             /* project 1*/
     let project1_t1 = document.querySelector("#project1_t1")
     project1_t1.innerHTML = "Mi portafolio"
@@ -92,7 +92,7 @@ addEventListener("DOMContentLoaded", (event) => {
     let project2_description= document.querySelector("#project2_description")
     project2_description.innerHTML = "Aplicacion web para buscar recetas segun ingredientes y categorias <br> Este proyecto fue creado JavaScript, CSS-SASS-Bootstrap, hmtl y la API: https://www.themealdb.com/api.php"
 
-            /* project 2*/  
+            /* project 3*/  
 
     let project3_t1 = document.querySelector("#project3_t1")
     project3_t1.innerHTML = "API SpringBoot"
@@ -100,13 +100,30 @@ addEventListener("DOMContentLoaded", (event) => {
     let project3_description= document.querySelector("#project3_description")
     project3_description.innerHTML = "API para registrar datos personales de usuarios. <br> Este proyecto fue creado SpringBoot, JAVA y MongoDB."
         //"Actualmente me encuentro terminando algunos proyectos que estarán disponibles aquí en breve."
+       
+      /* project 4*/  
+
+    let project4_t1 = document.querySelector("#project4_t1")
+    project4_t1.innerHTML = "Aplicación de Gestion de estudiantes"
+                
+    let project4_description= document.querySelector("#project4_description")
+    project4_description.innerHTML = "API para registrar los datos personales de los usuarios. <br> Una aplicación que registra los datos básicos de los estudiantes y permite realizar acciones CRUD. Este proyecto fue creado con Spring Boot, Java 21, Hibernate y MySQL."
+
+            /* project 5*/  
+     let project5_t1 = document.querySelector("#project5_t1")
+    project5_t1.innerHTML = "Aplicación de gestión de libros"
+                
+    let project5_description= document.querySelector("#project5_description")
+    project5_description.innerHTML = "Esta aplicación permite gestionar los libros disponibles en la tienda, incluyendo su precio y stock. Fue desarrollada con Java 21, Spring Boot, y se utilizó Swing para la interfaz gráfica de usuario."
+
+       
         //Contacto
 
     let h3_contacto = document.querySelector("#h3_contacto")
     h3_contacto.innerHTML = "¿Te gustaría trabajar conmigo?"
 
     let contacto_intro = document.querySelector("#contacto_intro")
-    contacto_intro.innerHTML = "Puedes enviarme un mensaje o contactarme a cualquiera de mis redes sociales. En mi CV encuentras tambien mi información personal. Click <a href='https://drive.google.com/file/d/1nbOIA-x9fFh0KzUH4YkPIE1oLOi1RQax/view?usp=sharing' target='_blank'>Descargar CV</a>."
+    contacto_intro.innerHTML = "Puedes enviarme un mensaje o contactarme a cualquiera de mis redes sociales. En mi CV encuentras tambien mi información personal. Click <a href='https://drive.google.com/file/d/14Bh3rMLEPZ8Ig8rJ5TF1MMMs1f0Qgshe/view?usp=sharing' target='_blank'>Descargar CV</a>."
 
 
 
